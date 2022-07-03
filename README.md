@@ -1,2 +1,2 @@
 # Others
- Project not related to a specific field
+ Projects not related to a specific field
